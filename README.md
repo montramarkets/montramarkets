@@ -10,7 +10,7 @@
   <a href="https://montramarkets.xyz/"><img src="https://img.shields.io/badge/EXPLORE-163D32?style=for-the-badge" alt="Explore Montra"></a>
   <a href="https://montramarkets.xyz/docs"><img src="https://img.shields.io/badge/DOCS-28594A?style=for-the-badge" alt="Read the docs"></a>
   <a href="https://x.com/MontraXYZ"><img src="https://img.shields.io/badge/FOLLOW%20ON%20X-24292F?style=for-the-badge" alt="Follow on X"></a>
-  <a href="https://montramarkets.xyz/token/0xb070442d506bea996f0ca6cf291a2a837758adc4"><img src="https://github.com/montramarkets/montramarkets/raw/main/assets/montra-loop.gif?style=for-the-badge" alt="montra-loop"></a>
+  <a href="https://montramarkets.xyz/token/0xb070442d506bea996f0ca6cf291a2a837758adc4" alt="montra-loop"></a>
  
 </p>
 </p>
